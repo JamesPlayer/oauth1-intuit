@@ -1,6 +1,8 @@
 # Intuit Provider for OAuth 1.0 Client
 
 [![Build Status](https://img.shields.io/travis/wheniwork/oauth1-intuit.svg)](https://travis-ci.org/wheniwork/oauth1-intuit)
+[![Code Coverage](https://img.shields.io/coveralls/wheniwork/oauth1-intuit.svg)](https://coveralls.io/r/wheniwork/oauth1-intuit)
+[![Code Quality](https://img.shields.io/scrutinizer/g/wheniwork/oauth1-intuit.svg)](https://scrutinizer-ci.com/g/wheniwork/oauth1-intuit/)
 [![License](https://img.shields.io/packagist/l/wheniwork/oauth1-intuit.svg)](https://github.com/wheniwork/oauth1-intuit/blob/master/LICENSE)
 [![Latest Stable Version](https://img.shields.io/packagist/v/wheniwork/oauth1-intuit.svg)](https://packagist.org/packages/wheniwork/oauth1-intuit)
 
